@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\v-vensur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\v-vensur\\.nuget\\packages"
+    ]
+  }
+}
